@@ -33,7 +33,7 @@ class _HomepageState extends State<Homepage> {
             children: <Widget>[
               AspectRatio(
                 aspectRatio: 18.0 / 11.0,
-                child: Image.asset('assets/diamond.png'),
+                child: Image.asset('assets/diamond.jpeg'),
               ),
               Padding(
                 padding: const EdgeInsets.fromLTRB(16.0, 12.0, 16.0, 8.0),
